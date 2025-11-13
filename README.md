@@ -2,13 +2,13 @@ Mini-Kanban
 
 Descrição:
 Aplicação fullstack simples com três colunas fixas: A Fazer, Em Progresso e Concluídas.
-Permite criar, editar, mover e excluir tarefas. Dados persistidos via API REST em Go (memória).
+Permite criar, editar, mover e excluir tarefas. Dados armazenados via API REST em Go (memória).
 
 Estrutura do Projeto:
-/backend → API REST em Go
-/frontend → Aplicação em React
-/docs → Diagramas
-README.md → Instruções de uso
+/backend -> API REST em Go
+/frontend -> Aplicação em React
+/docs -> Diagramas
+README.md -> Instruções de uso
 
 Como Executar?
 1. Backend (Go)
